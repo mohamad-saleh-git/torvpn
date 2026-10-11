@@ -1,4 +1,4 @@
-# torvpn
+rvpn
 
 TorVPN is a simple and secure way to access the Tor network.
 
